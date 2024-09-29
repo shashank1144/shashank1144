@@ -1,10 +1,6 @@
- - 👋 Hi, I’m @shashankgowda
-- 👀 I’m interested in ...software development
-- 🌱 I’m currently learning ...python and java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ - 👋 Hi, I’m @Shashank Gowda
+- 👀 I’m interested in ...Software Development
+- 🌱 I’m currently learning ...Python and Java
 
 <!---
 shashank1144/shashank1144 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
